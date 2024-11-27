@@ -1,4 +1,5 @@
 oi deem pip install selenium reportlab webdriver_manager
+baixar extensao de pdf no vscode 
 se mesmo assim aparecer que elas não foram baixadas:
 
 criar ambiente virtual usando python -m venv venv (esse segundo venv é só o nome do ambiente, pode ser qualquer coisa) no terminal
