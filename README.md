@@ -1,4 +1,4 @@
-oi deem pip install selenium reportlab webdriver_manager
+oi deem pip install -r requirements.txt
 baixar extensao de pdf no vscode 
 se mesmo assim aparecer que elas não foram baixadas:
 
@@ -7,7 +7,7 @@ ativar o ambiente usando venv\Scripts\Activate.bat no terminal
 dar ctrl + shift + p no vscode
 procurar python: select interpreters ou algo parecido
 selecionar o ambiente que vc acabou de criar e ativar
-baixar as dependencias e rodar o codigo ebaa
+rodar no terminal pip install -r requirements.txt e rodar o codigo ebaa
 
 mudanças desse código pro do professor:
 nao precisa baixar aquele webdrriver podre - só precisa do webdriver_manager
